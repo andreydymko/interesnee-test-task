@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="general_search_error">Google не вернул результатов по данному запросу</string>
+    <string name="web_view_load_error">Ошибка загрузки страницы: %1$s</string>
+    <string name="fetching_error">Ошибка во время выполнения запроса: %1$s</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="image_description_general">Какая-то картинка</string>
+    <string name="image_description_not_found">Картинка не найдена</string>
+    <string name="text_view_suggest_search">Найдите красивую картинку</string>
+    <string name="search_toolbar_hint">Введите поисковый запрос…</string>
+    <string name="search_toolbar_button_title">Поиск</string>
+    <string name="image_toolbar_open_browser">Открыть в браузере</string>
+    <string name="action_retry">Попробовать снова</string>
+    <string name="ssl_error">Ошибка SSL, код %1$d</string>
+    <string name="action_dismiss">Скрыть</string>
+</resources>

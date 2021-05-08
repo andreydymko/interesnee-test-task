@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name" translatable="false">Test Task</string>
+
+    <string name="general_search_error">"Google hasn't returned any results for this query"</string>
+    <string name="web_view_load_error">Error while loading page: %1$s</string>
+    <string name="fetching_error">An error occurred while executing the request: %1$s</string>
+    <string name="unknown_error">Unknown error</string>
+    <string name="ssl_error">SSL error, code %1$d</string>
+
+    <!-- ImageView descriptions -->
+    <string name="image_description_general">Some image</string>
+    <string name="image_description_not_found">Image not found</string>
+
+    <!-- TextViews default values -->
+    <string name="text_view_no_results" translatable="false">@string/general_search_error</string>
+    <string name="text_view_suggest_search">Find a lovely picture</string>
+
+    <!-- Search toolbar -->
+    <string name="search_toolbar_hint">Enter search query…</string>
+    <string name="search_toolbar_button_title">Search</string>
+
+    <!-- Image view toolbar -->
+    <string name="image_toolbar_open_browser">Open in browser</string>
+
+    <!-- Action strings -->
+    <string name="action_retry">Retry</string>
+    <string name="action_dismiss">Dismiss</string>
+</resources>
