@@ -171,8 +171,7 @@ class SerpApiRequester(reqData: RequestData) : BaseRequester<List<ImageDescripti
             currBufferPos = 0
 
             sendBufferedPart(tags[TAGS_NUM_TO_SEND] as Int, tags[TAGS_REQUEST_TAG] as Int)
-
-            isCurrentlyFetching.set(false)
+            
             getNextFromQueue()
         }
     }
